@@ -1,2 +1,2 @@
 # Computer-Vision
-Rohit Rathod, 33, 4th year, Mechanical engg
+1) Rohit Rathod  2) 33  3) 4th year 4) Mechanical engg
