@@ -1,2 +1,2 @@
 # Computer-Vision
-This is a brief task on creating a repo
+Rohit Rathod, 33, 4th year, Mechanical engg
